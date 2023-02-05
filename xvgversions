@@ -1,0 +1,53 @@
+<html>
+<head>
+    <title>Latest Version V1-1</title>
+</head>
+<body>
+    <font face="Segoe UI"></font>
+    <center>
+        <h3 face="Segoe UI"> X-VG Update Table.</h3>
+        <table border="1">
+
+            <tr>
+                <td>
+                    Update Code
+                <td>
+                    Version
+                <td>
+                    Server
+                <td>
+                    Update Server
+                    <td>
+                        Type
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    01
+                <td>
+                    1.0
+                <td>
+                    None
+                <td>
+                    None
+                <td>
+                    App [Closed Beta]
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    011
+                <td>
+                    1.1
+                <td>
+                    XVG-1
+                <td>
+                    G1
+                    <td>
+                        App
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
